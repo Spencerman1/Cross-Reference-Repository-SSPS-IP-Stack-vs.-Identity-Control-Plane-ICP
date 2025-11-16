@@ -1,0 +1,2 @@
+# Cross-Reference-Repository-SSPS-IP-Stack-vs.-Identity-Control-Plane-ICP-
+This repository documents the forensic comparison between the SSPS (Southern Star Pro Studios) IP Stack—including Mint-to-Logic™, MVB (Mint-Validate-Burn) lifecycle, RBGA™ (Reflexive Behavioral Governance Authority), and associated subframeworks—and the publicly published Identity Control Plane (ICP) architecture used in Zero Trust environments.
