@@ -1,2 +1,4 @@
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
 # Cross-Reference-Repository-SSPS-IP-Stack-vs.-Identity-Control-Plane-ICP-
 This repository documents the forensic comparison between the SSPS (Southern Star Pro Studios) IP Stack—including Mint-to-Logic™, MVB (Mint-Validate-Burn) lifecycle, RBGA™ (Reflexive Behavioral Governance Authority), and associated subframeworks—and the publicly published Identity Control Plane (ICP) architecture used in Zero Trust environments.
